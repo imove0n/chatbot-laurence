@@ -1,2 +1,0 @@
-# chatbot-laurence
-Rence AI
